@@ -1,0 +1,22 @@
+<svg width="420" height="120" viewBox="0 0 420 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cloudBlue" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1DA1F2"/>
+      <stop offset="100%" stop-color="#0B5ED7"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Cloud Icon -->
+  <g transform="translate(10,20)">
+    <path d="M40 60h90a30 30 0 0 0 0-60 40 40 0 0 0-78-10A35 35 0 0 0 40 60z"
+          fill="url(#cloudBlue)"/>
+    <path d="M55 60h95a25 25 0 0 0 0-50 32 32 0 0 0-63-8"
+          fill="#FFFFFF" opacity="0.9"/>
+  </g>
+
+  <!-- Text -->
+  <text x="170" y="75" font-size="42" font-family="Arial, Helvetica, sans-serif">
+    <tspan fill="#000000" font-weight="600">Cloud</tspan>
+    <tspan fill="#333333" font-weight="600">Centric</tspan>
+  </text>
+</svg>
